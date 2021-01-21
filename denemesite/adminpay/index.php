@@ -19,7 +19,7 @@ if(!isset($_SESSION['admin_kadi'])){
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="page-head-line">APPAYGUN ADMIN PANELİ</h1>
+                        <h1 class="page-head-line">ADMIN PANELİ</h1>
                         <h1 class="page-subhead-line">Site admin paneline hoşgeldiniz! Ayarlarınızı yan taraftaki sekmelerden yapabilirsiniz. </h1>
 
                     </div>
